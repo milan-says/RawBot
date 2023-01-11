@@ -12,8 +12,8 @@
         "type": "git",
         "url": "git+https://github.com/milan-says/Alexa.git"
     },
-    "author": "D-Jukie",
-    "license": "GPL-3.0",
+    "author": "Milan",
+    "license": "GPL-3.0 license",
     "dependencies": {
         "simple-youtube-api": "",
         "@miraipr0ject/assets": "",
